@@ -1,1 +1,1 @@
-console.log('hello world form webpack');
+import 'babel-polyfill';
